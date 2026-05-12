@@ -26,7 +26,7 @@ class DeviceApp extends StatelessWidget {
               child: DeviceCard(),
             ),
           ),
-          // add app banner 
+          // add app banner
           appBar: AppBar(
             centerTitle: true,
             title: const Text(
