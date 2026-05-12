@@ -1,17 +1,14 @@
-# device_profile_app
+# Device Profile App - Flutter
 
-A new Flutter project.
+A simple and elegant Flutter application that displays a device specification card. Developed as part of the mobile development coursework.
 
-## Getting Started
+## Preview 
+--- 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="1022" height="915" alt="image" src="https://github.com/user-attachments/assets/90d5328e-479f-44c9-9853-a3829460dbab" />
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--- 
+
+Developed by: **Samar M. Balousha**
