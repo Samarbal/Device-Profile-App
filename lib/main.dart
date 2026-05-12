@@ -18,13 +18,27 @@ class DeviceApp extends StatelessWidget {
 
         colorScheme: ColorScheme.fromSeed(seedColor: Color(0xFFFFF9C4)),
       ),
+
       home: Scaffold(
         backgroundColor: Color(0xFFFFF9C4),
-        body: Center(
-          child: DeviceCard(),
-        ),
+          body:  Center(
+            child: SingleChildScrollView(
+              child: DeviceCard(),
+            ),
+          ),
+          // add app banner 
+          appBar: AppBar(
+            centerTitle: true,
+            title: const Text(
+              'Device Details',
+              style: TextStyle(fontWeight: FontWeight.bold, color: Colors.amber),
+
+            ),
+      )
+
       )
     );
+
   }
 }
 
